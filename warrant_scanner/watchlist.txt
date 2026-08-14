@@ -1,0 +1,15 @@
+# En aktie per rad. Tomma rader och rader som börjar med # ignoreras.
+#
+# Om den automatiska tickerigenkänningen (via Yahoo Finance-sök) skulle
+# gissa fel aktie, ange tickern manuellt så här:
+#   Namn :: TICKER
+# t.ex:
+#   Volvo B :: VOLV-B.ST
+#
+# Kontrollera gärna loggen första gången du kör — den visar vilken
+# ticker som faktiskt användes för varje rad, så du kan upptäcka
+# felaktiga träffar och lägga till en manuell override vid behov.
+
+Tesla
+Nvidia
+Volvo B :: VOLV-B.ST
