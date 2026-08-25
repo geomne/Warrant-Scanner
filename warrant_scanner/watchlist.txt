@@ -10,6 +10,27 @@
 # ticker som faktiskt användes för varje rad, så du kan upptäcka
 # felaktiga träffar och lägga till en manuell override vid behov.
 
-Tesla
-Nvidia
-Volvo B :: VOLV-B.ST
+Boeing :: BA
+Spotify :: SPOT
+Hims :: HIMS
+Spacex :: SPCX
+Datadog :: DDOG
+ServiceNow :: NOW
+Palantir :: PLTR
+Tesla :: TSLA
+Shopify :: SHOP
+Nvidia :: NVDA
+Crowdstrike :: CRWD
+Intel :: INTC
+Palo Alto :: PANW
+Coreweave :: CRWv
+Meta Platforms :: META
+Advanced Micro Devices :: AMD
+Oracle :: ORCL
+Broadcom :: AVGO
+Microsoft :: MSFT
+Alphabet :: GOOG
+Amazon :: AMZN
+Arista Networks :: ANET
+KLA :: KLAC
+Apple :: AAPL
